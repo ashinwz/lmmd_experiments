@@ -1,5 +1,3 @@
-# Written by Zengrui Wu, LMMD, ECUST, 2016-5-6
-# Updated by Zengrui Wu, LMMD, ECUST, 2016-6-23, 2016-6-24, 2016-10-9, 2016-10-29
 # Usage: generate_property.py input_file output_file proc_n
 import sys, subprocess, fileinput, pybel
 
